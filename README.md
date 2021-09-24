@@ -1,5 +1,5 @@
 # product_app
-Flask framework python app for extracting product information from any amazon product page. The Product is deployed and is available online <br>
+A small application based on data scraping done with Python. It is a Flask framework python app for extracting product information from any amazon product page. The Product is deployed and is available online <br>
 Frameworks used:
 - Flask
 - BeautifulSoup
